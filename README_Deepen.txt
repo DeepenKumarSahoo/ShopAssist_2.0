@@ -58,11 +58,11 @@ To get started with ShopAssist2, follow these steps:
 
 1. **Clone the repository:**
    ```
-   https://github.com/DeepenKumarSahoo/ShopAssist_2.0.git
-   cd ShopAssist_2.0
+   git clone https://github.com/hellotorax123/ShopAssist2.git
+   cd ShopAssist2
    ```
 2. **Lunch VS Code from Anaconda**
-   - In VS Code go to `File` > `Open Folder...` and select the `ShopAssist_2.0` folder.
+   - In VS Code go to `File` > `Open Folder...` and select the `ShopAssist2` folder.
    - Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
 2. **Install dependencies:**
 ```   
@@ -79,10 +79,10 @@ python app.py
 
 User output example screenshot:
 
-![Screenshot-1](ShopAssist2_ApplicationCode_Deepen/Images/Conversation-1.png)
+![Screenshot-1](ShopAssist2ApplicationCode/Images/Conversation-1.png)
 
 
-![Screenshot-2](ShopAssist2_ApplicationCode_Deepen/Images/Conversation-2.png)
+![Screenshot-2](ShopAssist2ApplicationCode/Images/Conversation-2.png)
 
 
-![Screenshot-3](ShopAssist2_ApplicationCode_Deepen/Images/Conversation-11.png)
+![Screenshot-3](ShopAssist2ApplicationCode/Images/Conversation-3.png)
